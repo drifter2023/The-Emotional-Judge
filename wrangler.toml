@@ -1,0 +1,10 @@
+name = "the-emotional-judge"
+compatibility_date = "2026-03-31"
+pages_build_output_dir = "dist"
+
+[[kv_namespaces]]
+binding = "JUDGE_CODES"
+id = "175336537aba49969b27428c24a72fc4"
+
+[vars]
+ENABLE_TEST_LINK = "true"
